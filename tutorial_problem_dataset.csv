@@ -5,13 +5,13 @@ Year,Scenario,Feedstock,State,USDA Region,fips,Production,Production Unit,Produc
 2020,Baseline,Sorghum,Illinois,Corn Belt,17,2275538.447,40.98668344,bu,25222.6443,90.21807928,bu/ac,55518.96998,Agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
 2020,Baseline,Soybeans,Illinois,Corn Belt,17,508301261.6,9155.451944,bu,9273359.446,54.81306638,bu/ac,55518.96998,agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
 2020,Baseline,Wheat,Illinois,Corn Belt,17,37713224.28,679.2853739,bu,555831.2878,67.85013054,bu/ac,55518.96998,Agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
-2020,Baseline,Corn,Indiana,Corn Belt,18,,26295.23625,bu,5339635.407,176.4270319,bu/ac,35826.10994,Agriculture,Herbaceous,Conventional,Crop,na,null,null,null,null,null
+2020,Baseline,corn,Indiana,Corn Belt,18,,26295.23625,bu,5339635.407,176.4270319,bu/ac,35826.10994,Agriculture,Herbaceous,Conventional,Crop,na,null,null,null,null,null
 2020,Baseline,Hay,Indiana,Corn Belt,18,2487390.865,69.42955485,dt,828270.4334,3.003106881,dt/ac,35826.10994,Agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
 43835,Baseline,Soybeans,Indiana,Corn Belt,18,288689001.1,8058.06161,bu,5320783.012,54.25686345,bu/ac,35826.10994,Agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
 2020,Baseline,Wheat,Indiana,Corn Belt,18,21899896.8,611.2831349,bu,310477.031,70.53629075,bu/ac,35826.10994,Agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
 2020,Baseline,Corn,Iowa,Corn Belt,19,2400124024,42968.98213,bu,12277839.17,195.4842364,bu/ac,55857.13008,Agriculture,Herbaceous,Conventional,Crop,-,null,null,null,null,null
 2020,Baseline,Hay,IA,Corn Belt,19,4822295.378,86.33267358,dt,1470383.712,3.279618527,dt/ac,55857.13008,Agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
-2020,Baseline,Oats,Iowa,Corn Belt,19,4779368.608,85.56416346,bu,68612.732,69.65717073,bu/ac,55857.13008,agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
+2020,Baseline,oats,Iowa,Corn Belt,19,4779368.608,85.56416346,bu,68612.732,69.65717073,bu/ac,55857.13008,agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
 2020,Baseline,Soybeans,Iowa,Corn Belt,19,526879759.7,9432.632126,bu,9577409.198,55.01276706,bu/ac,55857.13008,Agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
 2020,Baseline,Corn,Missouri,Corn Belt,29,406068902.4, ,bu,2975132.291,136.4876841,bu/ac,68741.4899,Agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
 2020,Baseline,Cotton,Missouri,Corn Belt,29,244534022.2,3557.298839,lb,227832.6125,1073.305624,lb/ac,68741.4899,Agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
