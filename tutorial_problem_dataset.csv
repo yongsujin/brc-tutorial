@@ -1,0 +1,37 @@
+Year,Scenario,Feedstock,State,USDA Region,fips,Production,Production Unit,Production Density,Harvested Acres,Yield,Yield Unit,Land Area,Resource Category,Resource Form,Resource Type,Land Source,Forest Region,Diameter Class,Operation Type,Owner,supply Class,Supply Target
+2020,Baseline,Corn,Illinois,Corn Belt,17,2025087232,36475.59082,bu,11101122.37,182.4218472,bu/ac,55518.96998,Agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
+2020,Baseline,Hay,Illinois,Corn Belt,17,2434632.566,43.85226467,dt,766539.7282,3.176129301,dt/ac,55518.96998,Agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
+2020,Baseline,Oats,Illinois,Corn Belt,17,1139684.277,20.52783539,bu,14190.9817,80.31047775,bu/ac,55518.96998,Agriculture,Herbaceous,Conventional,Crop, ,null,null,null,null,null
+2020,Baseline,Sorghum,Illinois,Corn Belt,17,2275538.447,40.98668344,bu,25222.6443,90.21807928,bu/ac,55518.96998,Agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
+2020,Baseline,Soybeans,Illinois,Corn Belt,17,508301261.6,9155.451944,bu,9273359.446,54.81306638,bu/ac,55518.96998,agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
+2020,Baseline,Wheat,Illinois,Corn Belt,17,37713224.28,679.2853739,bu,555831.2878,67.85013054,bu/ac,55518.96998,Agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
+2020,Baseline,Corn,Indiana,Corn Belt,18,,26295.23625,bu,5339635.407,176.4270319,bu/ac,35826.10994,Agriculture,Herbaceous,Conventional,Crop,na,null,null,null,null,null
+2020,Baseline,Hay,Indiana,Corn Belt,18,2487390.865,69.42955485,dt,828270.4334,3.003106881,dt/ac,35826.10994,Agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
+43835,Baseline,Soybeans,Indiana,Corn Belt,18,288689001.1,8058.06161,bu,5320783.012,54.25686345,bu/ac,35826.10994,Agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
+2020,Baseline,Wheat,Indiana,Corn Belt,18,21899896.8,611.2831349,bu,310477.031,70.53629075,bu/ac,35826.10994,Agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
+2020,Baseline,Corn,Iowa,Corn Belt,19,2400124024,42968.98213,bu,12277839.17,195.4842364,bu/ac,55857.13008,Agriculture,Herbaceous,Conventional,Crop,-,null,null,null,null,null
+2020,Baseline,Hay,IA,Corn Belt,19,4822295.378,86.33267358,dt,1470383.712,3.279618527,dt/ac,55857.13008,Agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
+2020,Baseline,Oats,Iowa,Corn Belt,19,4779368.608,85.56416346,bu,68612.732,69.65717073,bu/ac,55857.13008,agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
+2020,Baseline,Soybeans,Iowa,Corn Belt,19,526879759.7,9432.632126,bu,9577409.198,55.01276706,bu/ac,55857.13008,Agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
+2020,Baseline,Corn,Missouri,Corn Belt,29,406068902.4, ,bu,2975132.291,136.4876841,bu/ac,68741.4899,Agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
+2020,Baseline,Cotton,Missouri,Corn Belt,29,244534022.2,3557.298839,lb,227832.6125,1073.305624,lb/ac,68741.4899,Agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
+43968,Baseline,Hay,Missouri,Corn Belt,29,9069075.351,131.930154,dt,4867410.662,1.863230417,dt/ac,68741.4899,Agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
+2020,Baseline,Rice,Missouri,Corn Belt,29,1558532175,22672.36537,lb,211783.2784,7359.089774,lb/ac,68741.4899,Agriculture,Herbaceous,Conventional,Crop,-,null,null,null,null,null
+2020,Baseline,Sorghum,Missouri,Corn Belt,29,4137763.435,60.19310086,bu,51424.3044,80.46317826,bu/ac,68741.4899,Agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
+2020,Baseline,Soybeans,Missouri,Corn Belt,29, , ,bu,5460139.719,41.21708437,bu/ac,68741.4899,Agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
+2020,Baseline,Wheat,Missouri,Corn Belt,29,35657070.49,518.712506,bu,630769.2695,56.52950042,bu/ac,68741.4899,Agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
+2020,Baseline,Corn,Ohio,Corn Belt,39,618156334,15128.38706,bu,3252629.896,190.0481645,bu/ac,40860.69,Agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
+2020,Baseline,Hay,Ohio,Corn Belt,39,3636516.64,88.99792539,dt,1322263.347,2.750217417,dt/ac,40860.69,agriculture,Herbaceous,Conventional,Crop, ,null,null,null,null,null
+2020,Baseline,Oats,Ohio,Corn Belt,39,1703958.026,41.70164591,bu,24213.5565,70.37207158,bu/ac,40860.69,Agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
+2020,Baseline,Soybeans,OH,Corn Belt,39,252529185.6,6180.247705,bu,4624015.375,54.61253227,bu/ac,40860.69,Agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
+2020,Baseline,Wheat,Ohio,Corn Belt,39,40416994.23,989.141256,bu,587048.2951,68.84781497,bu/ac,40860.69,Agriculture,Herbaceous,Conventional,Crop,null,null,null,null,null,null
+2020,Baseline,Idle,Illinois,Corn Belt,17,null,null,null,null,null,null,null,Agriculture,NA,Ag Not Planted,NA,null,null,null,null,null,null
+2020,Baseline,Pasture available,Illinois,Corn Belt,17,null,null,null,null,null,null,null,Agriculture,NA,Ag Not Planted,NA,null,null,null,null,null,null
+2020,Baseline,Idle,Indiana,Corn Belt,18,null,null,null,null,null,null,null,Agriculture,NA,Ag Not Planted,NA,null,null,null,null,null,null
+2020,Baseline,Pasture available,Indiana,Corn Belt,18,null,null,null,null,null,null,null,Agriculture,NA,Ag Not Planted,NA,null,null,null,null,null,null
+2020,Baseline,Idle,Iowa,Corn Belt,19,null,null,null,null,null,null,null,Agriculture,NA,Ag Not Planted,NA,null,null,null,null,null,null
+2020,Baseline,Pasture available,Iowa,Corn Belt,19,null,null,null,null,null,null,null,Agriculture,NA,Ag Not Planted,NA,null,null,null,null,null,null
+2020,Baseline,Idle,Missouri,Corn Belt,29,null,null,null,null,null,null,null,Agriculture,NA,Ag Not Planted,NA,null,null,null,null,null,null
+2020,Baseline,Pasture available,Missouri,Corn Belt,29,null,null,null,null,null,null,null,Agriculture,NA,Ag Not Planted,NA,null,null,null,null,null,null
+2020,Baseline,Idle,Ohio,Corn Belt,39,null,null,null,null,null,null,null,Agriculture,NA,Ag Not Planted,NA,null,null,null,null,null,null
+2020,Baseline,Pasture available,Ohio,Corn Belt,39,null,null,null,null,null,null,null,Agriculture,NA,Ag Not Planted,NA,null,null,null,null,null,null
