@@ -1,9 +1,7 @@
 # Set the current working directory
 setwd('~/Box Sync/brc-tutorial/')
 
-# Load ggplot library
-# If not installed, run
-# install.packages('ggplot2')
+
 library(ggplot2)
 
 
